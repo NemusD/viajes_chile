@@ -2,20 +2,14 @@
 img {
     width: 5%;
 }
-.container-fluid {
-    padding: 2%;
-}
 .navbar-brand {
     width: 80%;
-}
-.navbarNav {
-    width: 50%;
 }
 /*Quienes Somos*/
 .titulo2 {
     padding: 20px;
 }
-#Quienes_Somos {
+#Quienes_Somos, #Destacados, #Contacto {
     background-color: black;
     color: white;
 }
@@ -29,20 +23,23 @@ h4 {
     background-color: rgb(76, 213, 223);
 }
 /*Destacados*/
-#Destacados {
-    background-color: black;
-    color: white;
-}
-.info {
-    color: white;
-}
-.card {
-    color: white;
-}
 .card-img-top {
     width: 50%;
 }
 .card-body {
     background-color: rgb(76, 213, 223);
     color: rgb(255, 255, 255);
+}
+/*Contacto*/
+button {
+    background-color: rgb(76, 213, 223);
+}
+/*Footer*/
+footer {
+    background-color: rgb(76, 213, 223);
+    color: white;
+    padding: 20px;
+}
+.sociales {
+    font-size: 35px;
 }
