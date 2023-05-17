@@ -6,6 +6,23 @@ img {
 .container-fluid {
     padding: 2%;
 }
-/* .carousel-inner {
-    position: relative;
-} */
+.navbar-brand {
+    width: 80%;
+}
+.navbarNav {
+    width: 50%;
+}
+/*Quienes Somos*/
+.titulo2 {
+    padding: 20px;
+}
+#Quienes_Somos {
+    background-color: black;
+    color: aliceblue;
+}
+article {
+    padding: 10px;
+}
+.icono {
+    background-color: rgb(58, 116, 163);
+}
