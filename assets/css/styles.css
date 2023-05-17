@@ -1,3 +1,7 @@
+/*Body*/
+body, * {
+    font-family: 'Playfair Display', serif;
+}
 /*Navbar*/
 img {
     width: 5%;
@@ -8,6 +12,7 @@ img {
 /*Quienes Somos*/
 .titulo2 {
     padding: 20px;
+    font-weight: 500;
 }
 #Quienes_Somos, #Destacados, #Contacto {
     background-color: black;
